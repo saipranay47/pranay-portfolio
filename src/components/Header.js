@@ -5,7 +5,7 @@ import { Popover, Transition } from "@headlessui/react";
 import clsx from "clsx";
 
 import { Container } from "@/components/Container";
-import avatarImage from "@/images/pranay.jpeg";
+import avatarImage from "@/images/Pranay.jpeg";
 import { Fragment, useEffect, useRef } from "react";
 
 function CloseIcon(props) {

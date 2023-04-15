@@ -11,7 +11,7 @@ import {
   LinkedInIcon,
   BehanceIcon,
 } from "@/components/SocialIcons";
-import portraitImage from "@/images/pranay.jpeg";
+import portraitImage from "@/images/Pranay.jpeg";
 
 function SocialLink({ className, href, children, icon: Icon }) {
   return (

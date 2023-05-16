@@ -249,7 +249,7 @@ export default function Home({ articles }) {
         <title>Sai Pranay Portfolio | Home</title>
         <meta
           name="description"
-          content=" Hi, I'm Vincent, an Octocat-loving developer community enthusiast based in the Philippines."
+          content=" Hi, I am Sai Pranay a design-minded front-end developer who loves to create beautiful interfaces and experiences"
         />
       </Head>
       <Container className="mt-9">

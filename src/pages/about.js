@@ -45,7 +45,7 @@ export default function About() {
         <title>Sai Pranay | About</title>
         <meta
           name="description"
-          content="I’m Vincent Villafuerte also known as vinzvinci. I live in Las Piñas City, Philippines, where I design the future."
+          content="Hi, I am Sai Pranay a design-minded front-end developer who loves to create beautiful interfaces and experiences and I build things for the web."
         />
       </Head>
       <Container className="mt-16 sm:mt-32">

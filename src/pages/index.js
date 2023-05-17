@@ -126,7 +126,7 @@ function Resume() {
   let resume = [
     {
       company: "Digital Fortress",
-      title: "Full Stack Developer",
+      title: "Full Stack Dev Part time",
       logo: df,
       start: 'Mar 2022',
       end: {

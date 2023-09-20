@@ -255,18 +255,21 @@ export default function Home({ articles }) {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Sai Pranay - <br /> Full Stack Developer, Designer & Blockchain
-            Enthusiast
+            Sai Pranay - <br /> Full Stack Developer, Designer
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Hi, I'm Sai Pranay I'm a full-stack developer with a strong passion
-            for frontend technologies, UI/UX design, and branding. As an
-            aspiring blockchain enthusiast, I'm always eager to explore new
-            opportunities and challenges in the tech world. I also manage an
-            Instagram page with over 100k+ followers, where I love sharing my
-            knowledge and insights about web development. Join me as we delve
-            into my unique projects and discover the creative solutions and
-            expertise that I bring to the table.
+            Hello, I'm Sai Pranay, a full-stack developer
+            <span className=" font-bold text-black dark:text-white">
+              {" "}
+              deeply passionate about frontend technologies 
+              {" "}
+            </span>
+            and also intrested in UI/UX design, and branding. I'm always eager to explore new
+            opportunities and challenges in the tech world. Additionally, I
+            manage an Instagram page with over 100k+ followers, where I enjoy
+            sharing my knowledge and insights about web development. Join me as
+            we dive into my unique projects and discover the creative solutions
+            and expertise that I bring to the table.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink

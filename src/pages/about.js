@@ -67,33 +67,42 @@ export default function About() {
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>Hey there 👋</p>
               <p>
-                My name is Sai Pranay, a design-minded front-end developer who
-                loves to create beautiful interfaces and experiences. Currently
-                a third-year computer science engineering student at Vellore
-                Institute of Technology AP campus, I've gained experience in
-                developing and designing websites ranging from simple landing
-                pages to progressive web applications. My goal is to create
-                scalable, efficient applications while delivering engaging,
-                pixel-perfect user experiences.
+                I'm Sai Pranay, a design-minded front-end developer who takes
+                pleasure in crafting exquisite interfaces and delivering
+                exceptional user experiences. Currently in my final year of
+                computer science engineering at Vellore Institute of Technology
+                AP campus, I have honed my skills in developing and designing
+                websites, spanning from elegant landing pages to cutting-edge
+                progressive web applications. My mission is to create scalable
+                and efficient applications, always striving for pixel-perfect
+                perfection in user interactions.
               </p>
               <p>
-                I have a growing interest in blockchain technology, and I'm
-                eager to explore its potential applications and dive deeper into
-                this fascinating field. With a passion for learning new ways to
-                produce seamless user experiences using clean, efficient, and
-                scalable code, I see work as an ongoing education. I'm always on
-                the lookout for opportunities to collaborate with others who are
-                as eager to share their knowledge as I am to learn. Ultimately,
-                my primary aim is to create something beautiful alongside people
-                who bring out the best in me.
+                While my journey began with a keen interest in technology, I'm
+                now eager to explore its diverse applications and delve deeper
+                into the fascinating world of web development. With an
+                insatiable thirst for learning new techniques to create seamless
+                user experiences through clean, efficient, and scalable code, I
+                see my work as an ongoing learning journey. I'm constantly on
+                the lookout for opportunities to collaborate with like-minded
+                individuals who are as eager to share their knowledge as I am to
+                absorb it. Ultimately, my primary goal is to collaboratively
+                create something exceptional with those who bring out the best
+                in me.
               </p>
               <p>
-                Additionally, I'm a content creator who has built a personal
-                brand through my Instagram page, where I share my web
-                development journey, developer resources, and blockchain
-                insights with a thriving community of over 100k+ followers. This
-                experience has allowed me to connect with numerous individuals,
-                expand my knowledge, and improve my outreach in the tech world.
+                In addition to my development skills, I'm also a content creator
+                who has built a personal brand through my Instagram page. There,
+                I share my journey in web development, valuable developer
+                resources, and insights into various tech topics with a thriving
+                community of over 100k+ followers. This experience has allowed
+                me to connect with numerous individuals, expand my knowledge,
+                and broaden my presence in the tech world.
+              </p>
+              <p>
+                As I'm currently in my fourth year of BTech studies, I'm
+                actively seeking job opportunities to apply my skills and
+                contribute to innovative projects.
               </p>
             </div>
           </div>

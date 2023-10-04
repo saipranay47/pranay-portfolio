@@ -8,6 +8,7 @@ import ticketBanner from "@/images/banners/ticket.png";
 import vtappBanner from "@/images/banners/vtapp.png";
 import aatmannBanner from "@/images/banners/aatmann.png";
 import webcraftsbanner from "@/images/banners/webcraftsbanner.png";
+import tripwiseBanner from "@/images/banners/tripwiseBanner.png";
 
 const projects = [
   {
@@ -19,6 +20,16 @@ const projects = [
       label: "github.com/saipranay47/webcrafts",
     },
     logo: webcraftsbanner,
+  },
+  {
+    name: "TripWise - Discover Your Perfect Destination",
+    description:
+      "AI-driven, personalized destination suggestions for a seamless planning experience. Tailored for romance, adventure, or relaxation—your perfect getaway awaits. Developed using Next.js, Tailwind CSS, Open AI, Trip Adviser API",
+    link: {
+      href: "https://tripwise-project.vercel.app",
+      label: "tripwise-project.vercel.app/",
+    },
+    logo: tripwiseBanner,
   },
   {
     name: "Amazon Clone",
